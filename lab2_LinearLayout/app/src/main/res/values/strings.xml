@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="OneOne">OneOne</string>
+    <string name="OneTwo">OneTwo</string>
+    <string name="OneThree">OneThree</string>
+    <string name="OneFour">OneFour</string>
+    <string name="TwoOne">TwoOne</string>
+    <string name="TwoTwo">TwoTwo</string>
+    <string name="TwoThree">TwoThree</string>
+    <string name="TwoFour">TwoFour</string>
+    <string name="ThreeOne">ThreeOne</string>
+    <string name="ThreeTwo">ThreeTwo</string>
+    <string name="ThreeThree">ThreeThree</string>
+    <string name="ThreeFour">ThreeFour</string>
+    <string name="FourOne">FourOne</string>
+    <string name="FourTwo">FourTwo</string>
+    <string name="FourThree">FourThree</string>
+    <string name="FourFour">FourFour</string>
+
+    <string name="RED">RED</string>
+    <string name="ORANGE">ORANGE</string>
+    <string name="YELLOW">YELLOW</string>
+    <string name="BLUE">BLUE</string>
+    <string name="GREEN">GREEN</string>
+    <string name="INDIGO">INDIGO</string>
+    <string name="VIOLET">VIOLET</string>
+
+    <string name="open">open…</string>
+    <string name="openKey">ctrl-O</string>
+    <string name="save">save…</string>
+    <string name="saveKey">ctrl-S</string>
+    <string name="saveAs">saveAs…</string>
+    <string name="saveAsKey">ctrl-Shift-S</string>
+
+    <string name="aimport">X Import</string>
+    <string name="aexport">X Export</string>
+    <string name="aexportKey">ctrl-E</string>
+    <string name="quit">Quit-S</string>
+
+</resources>
