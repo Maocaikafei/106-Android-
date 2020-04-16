@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:ignore="MissingDefaultResource">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:text="showDialog"
+        android:textSize="10dp"
+        android:onClick="showAlertDialog"/>
+
+    <EditText android:id="@+id/txt"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="测试文本"/>
+
+    <ListView android:id="@+id/myList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:listSelector="@drawable/background"/>
+
+</LinearLayout>
+

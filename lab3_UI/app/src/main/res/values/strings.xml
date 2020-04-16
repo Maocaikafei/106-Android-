@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab3_UI</string>
+    <string name="ordinary">普通菜单项</string>
+    <string name="font">字体大小</string>
+    <string name="small">小</string>
+    <string name="middle">中</string>
+    <string name="big">大</string>
+    <string name="fontColor">字体颜色</string>
+    <string name="red">红</string>
+    <string name="black">黑</string>
+</resources>
