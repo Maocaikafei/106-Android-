@@ -18,3 +18,8 @@
 ![image](https://github.com/Maocaikafei/106-Android-/blob/master/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE/%E5%AE%9E%E9%AA%8C3/%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95%E5%A4%A7%E5%AD%97%E4%BD%93.png)
 ![image](https://github.com/Maocaikafei/106-Android-/blob/master/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE/%E5%AE%9E%E9%AA%8C3/%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95%E5%B0%8F%E5%AD%97%E4%BD%93.png)
 ![image](https://github.com/Maocaikafei/106-Android-/blob/master/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE/%E5%AE%9E%E9%AA%8C3/%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95%E7%BA%A2%E8%89%B2%E5%AD%97%E4%BD%93.png)
+
+实验四
+![image](https://github.com/Maocaikafei/106-Android-/blob/master/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE/Lab4/lab4_1.png)
+![image](https://github.com/Maocaikafei/106-Android-/blob/master/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE/Lab4/lab4_2.png)
+![image](https://github.com/Maocaikafei/106-Android-/blob/master/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE/Lab4/lab4_3.png)
