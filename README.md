@@ -81,7 +81,7 @@ String[] dataColumns = { NotePad.Notes.COLUMN_NAME_TITLE,NotePad.Notes.COLUMN_NA
 
 #### 4.实验结果
 
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/NotePad-master/timeResult.png)
+![image](NotePad-master/timeResult.png)
 
 ## 三.搜索框的实现
 
@@ -96,7 +96,7 @@ String[] dataColumns = { NotePad.Notes.COLUMN_NAME_TITLE,NotePad.Notes.COLUMN_NA
 
 其中icon图标和title都是需要自己额外添加的，通过下图可以看到添加成功了
 
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/NotePad-master/searchResult1.png)
+![image](NotePad-master/searchResult1.png)
 
 #### 2.在NoteList.java中添加点击响应事件
 
@@ -196,34 +196,34 @@ searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
 
 #### 6.实验结果：
 
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/NotePad-master/searchResult2.png)
+![image](NotePad-master/searchResult2.png)
 
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/NotePad-master/searchResult3.png)
+![image](NotePad-master/searchResult3.png)
 
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/NotePad-master/searchResult4.png)
+![image](NotePad-master/searchResult4.png)
 
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/NotePad-master/searchResult5.png)
+![image](NotePad-master/searchResult5.png)
 
 
 实验一
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab1/01.png)
+![image](Result_Img/Lab1/01.png)
 
 实验二
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab2/01.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab2/02.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab2/03.png)
+![image](Result_Img/Lab2/01.png)
+![image](Result_Img/Lab2/02.png)
+![image](Result_Img/Lab2/03.png)
 
 实验三
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab3/AlertDialog.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab3/SimpleAdapter.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab3/context.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab3/first.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab3/Toast.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab3/twoBig.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab3/twoRed.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab3/twoSmall.png)
+![image](Result_Img/Lab3/AlertDialog.png)
+![image](Result_Img/Lab3/SimpleAdapter.png)
+![image](Result_Img/Lab3/context.png)
+![image](Result_Img/Lab3/first.png)
+![image](Result_Img/Lab3/Toast.png)
+![image](Result_Img/Lab3/twoBig.png)
+![image](Result_Img/Lab3/twoRed.png)
+![image](Result_Img/Lab3/twoSmall.png)
 
 实验四
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab4/lab4_1.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab4/lab4_2.png)
-![image](https://github.com/Maocaikafei/106-Android-/tree/master/Result_Img/Lab4/lab4_3.png)
+![image](Result_Img/Lab4/lab4_1.png)
+![image](Result_Img/Lab4/lab4_2.png)
+![image](Result_Img/Lab4/lab4_3.png)
